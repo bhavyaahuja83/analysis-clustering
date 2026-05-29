@@ -1,0 +1,6 @@
+pandas
+openpyxl
+bson    
+ijson
+tqdm
+pyperclip
